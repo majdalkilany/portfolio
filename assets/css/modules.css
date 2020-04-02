@@ -507,7 +507,8 @@ button,
 
         #main > section.one {
             background-color: #81918E;
-            background-image: url("../../images/banner.jpg");
+            background-image: url("../../images/11.webp");
+            color: #e27689;
         }
 
         #main > section.two {
