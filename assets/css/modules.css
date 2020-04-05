@@ -507,17 +507,39 @@ button,
 
         #main > section.one {
             background-color: #81918E;
-            background-image: url("../../images/banner.jpg");
+            background-image: url("../../images/11.webp");
+            color: #e27689;
+
         }
 
         #main > section.two {
             background-color: #f5fafa;
+            background-image: url("../../images/0.2.jpg");
+            color: #cc4a22;
+            background-position: center center;
+            font-weight: 400;
+
+
         }
 
         #main > section.three {
-            background-color: #ecf1f1;
+            background-color:#212528;
+            /* background-image: url("../../images/0.3.jpg"); */
+            color: wheat;
+
         }
 
         #main > section.four {
-            background-color: #e8edec;
+            background-color:#212528;
+            /* background-image: url("../../images/0.3.jpg"); */
+            color: wheat;
         }
+
+        .item {
+            opacity: .5;
+            
+
+        }
+.item:hover{
+    opacity: 1;
+}
